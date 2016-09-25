@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246046611595",
+    "firebase_url": "https://computer-education-5bd37.firebaseio.com",
+    "project_id": "computer-education-5bd37",
+    "storage_bucket": "computer-education-5bd37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246046611595:android:e35c8a3d4b243fcd",
+        "android_client_info": {
+          "package_name": "com.example.saggu.computereducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246046611595-hlb602kvf4mh52mglp54g4u9p8tk2a8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saggu.computereducation",
+            "certificate_hash": "5921271CFC4FF6E093A32E06A9DB2FB205EDD624"
+          }
+        },
+        {
+          "client_id": "246046611595-rjoqmf3jr54d6tj956jlj9gh4a3kde7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBteqPh8SFvcfGFSkxK2_-Z-7j-Q1UYnOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246046611595-rjoqmf3jr54d6tj956jlj9gh4a3kde7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
